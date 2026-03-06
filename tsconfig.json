@@ -12,5 +12,5 @@
 
     "types": ["@figma/plugin-typings"]
   },
-  "include": ["src/**/*", "scripts/**/*"]
+  "include": ["src/**/*", "scripts/**/*", "tsconfig.json"]
 }
